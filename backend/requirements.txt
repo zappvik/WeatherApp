@@ -2,3 +2,5 @@ flask
 flask-cors
 requests
 google-generativeai
+langchain
+langchain-google-genai
