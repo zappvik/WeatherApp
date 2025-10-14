@@ -81,7 +81,6 @@
             askButton.disabled = true;
 
             try {
-                // The URL is now relative since the server serves the HTML file
                 const response = await fetch(`/weather?query=${encodeURIComponent(query)}`);
                 
                 if (!response.ok) {
