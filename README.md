@@ -55,7 +55,7 @@ Navigate to the backend directory and set up the environment.
 
 ```bash
 # Clone the repository (if you haven't already)
-git clone 
+git clone https://github.com/zappvik/WeatherApp
 cd WeatherApp
 
 # Move into the backend folder
